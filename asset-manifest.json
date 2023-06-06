@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vaimo_ta/static/css/main.27169651.css",
+    "main.css": "/vaimo_ta/static/css/main.57ddd932.css",
     "main.js": "/vaimo_ta/static/js/main.4308a3da.js",
     "static/media/Image.jpg": "/vaimo_ta/static/media/Image.4f054a51716402fbfabb.jpg",
     "static/media/MarchExpoLogo.png": "/vaimo_ta/static/media/MarchExpoLogo.aa77fdc735c66aefa5f9.png",
@@ -9,11 +9,11 @@
     "static/media/icons8-mastercard.svg": "/vaimo_ta/static/media/icons8-mastercard.3af0e9302e5179ddb782.svg",
     "static/media/lockicon.svg": "/vaimo_ta/static/media/lockicon.1f0684678dfac42d6c94.svg",
     "index.html": "/vaimo_ta/index.html",
-    "main.27169651.css.map": "/vaimo_ta/static/css/main.27169651.css.map",
+    "main.57ddd932.css.map": "/vaimo_ta/static/css/main.57ddd932.css.map",
     "main.4308a3da.js.map": "/vaimo_ta/static/js/main.4308a3da.js.map"
   },
   "entrypoints": [
-    "static/css/main.27169651.css",
+    "static/css/main.57ddd932.css",
     "static/js/main.4308a3da.js"
   ]
 }
