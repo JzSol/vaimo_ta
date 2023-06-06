@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/vaimo_ta/static/css/main.095cd21f.css",
-    "main.js": "/vaimo_ta/static/js/main.5187259e.js",
+    "main.css": "/vaimo_ta/static/css/main.27169651.css",
+    "main.js": "/vaimo_ta/static/js/main.4308a3da.js",
     "static/media/Image.jpg": "/vaimo_ta/static/media/Image.4f054a51716402fbfabb.jpg",
+    "static/media/MarchExpoLogo.png": "/vaimo_ta/static/media/MarchExpoLogo.aa77fdc735c66aefa5f9.png",
     "static/media/icons8-apple_pay.svg": "/vaimo_ta/static/media/icons8-apple_pay.19eb518835ddb1ac24e5.svg",
     "static/media/icons8-visa.svg": "/vaimo_ta/static/media/icons8-visa.11c9e75c6de05f42a8b1.svg",
     "static/media/icons8-mastercard.svg": "/vaimo_ta/static/media/icons8-mastercard.3af0e9302e5179ddb782.svg",
     "static/media/lockicon.svg": "/vaimo_ta/static/media/lockicon.1f0684678dfac42d6c94.svg",
     "index.html": "/vaimo_ta/index.html",
-    "main.095cd21f.css.map": "/vaimo_ta/static/css/main.095cd21f.css.map",
-    "main.5187259e.js.map": "/vaimo_ta/static/js/main.5187259e.js.map"
+    "main.27169651.css.map": "/vaimo_ta/static/css/main.27169651.css.map",
+    "main.4308a3da.js.map": "/vaimo_ta/static/js/main.4308a3da.js.map"
   },
   "entrypoints": [
-    "static/css/main.095cd21f.css",
-    "static/js/main.5187259e.js"
+    "static/css/main.27169651.css",
+    "static/js/main.4308a3da.js"
   ]
 }
