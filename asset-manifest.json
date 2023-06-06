@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/vaimo_ta/static/css/main.095cd21f.css",
+    "main.js": "/vaimo_ta/static/js/main.5187259e.js",
+    "static/media/Image.jpg": "/vaimo_ta/static/media/Image.4f054a51716402fbfabb.jpg",
+    "static/media/icons8-apple_pay.svg": "/vaimo_ta/static/media/icons8-apple_pay.19eb518835ddb1ac24e5.svg",
+    "static/media/icons8-visa.svg": "/vaimo_ta/static/media/icons8-visa.11c9e75c6de05f42a8b1.svg",
+    "static/media/icons8-mastercard.svg": "/vaimo_ta/static/media/icons8-mastercard.3af0e9302e5179ddb782.svg",
+    "static/media/lockicon.svg": "/vaimo_ta/static/media/lockicon.1f0684678dfac42d6c94.svg",
+    "index.html": "/vaimo_ta/index.html",
+    "main.095cd21f.css.map": "/vaimo_ta/static/css/main.095cd21f.css.map",
+    "main.5187259e.js.map": "/vaimo_ta/static/js/main.5187259e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.095cd21f.css",
+    "static/js/main.5187259e.js"
+  ]
+}
